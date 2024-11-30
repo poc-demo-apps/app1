@@ -1,0 +1,3 @@
+[submodule "external/app2"]
+	path = external/app2
+	url = https://github.com/poc-demo-apps/app2.git
